@@ -29,5 +29,5 @@
   "socket": true,
   "url": "https://github.com/cswendrowski/FoundryVtt-Npc-Chatter",
   "manifest": "https://raw.githubusercontent.com/PotOfTea/FoundryVtt-Npc-Chatter/master/module.json",
-  "download": "https://github.com/PotOfTea/FoundryVtt-Npc-Chatter/releases/download/v3.0.0/npcchatter.zip"
+  "download": "https://github.com/PotOfTea/FoundryVtt-Npc-Chatter/releases/download/v3.1.0/npcchatter.zip"
 }
